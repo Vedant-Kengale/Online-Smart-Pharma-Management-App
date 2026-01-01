@@ -7,7 +7,7 @@
 > A comprehensive web-based B2B pharmaceutical supply chain management system with role-based access control and real-time order tracking.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
+- [Overview](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [System Architecture](#system-architecture)
