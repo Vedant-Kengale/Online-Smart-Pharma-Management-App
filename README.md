@@ -14,7 +14,7 @@
 - [Modules](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-modules)
 - [Usage](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-usage)
 - [Screenshots](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-screenshots)
-- [Contributing](#contributing)
+- [Benefits & Impact](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-benefits--impact)
 - [License](#license)
 
 ## 🎯 Overview
