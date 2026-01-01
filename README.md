@@ -1,6 +1,5 @@
 # 🏥 Online Smart Pharma Management Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-JSP-red.svg)](https://www.oracle.com/java/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue.svg)](https://www.mysql.com/)
 [![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple.svg)](https://getbootstrap.com/)
