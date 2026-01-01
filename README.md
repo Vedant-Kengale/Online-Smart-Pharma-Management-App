@@ -16,6 +16,8 @@
 - [Screenshots](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-screenshots)
 - [Benefits & Impact](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-benefits--impact)
 - [Target Users](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
+- [Future Enhancement](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
+- [Technical Implementation](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
 
 ## 🎯 Overview
 
@@ -184,20 +186,9 @@ graph LR
 
 The application employs a three-tier architecture where the presentation layer (HTML/CSS/Bootstrap) handles user interface, the application layer (JSP/JavaScript) manages business logic and session handling, and the data layer (MySQL) ensures persistent storage. AJAX calls powered by jQuery enable asynchronous communication for seamless user experience without full page reloads. The system implements role-based access control ensuring each user type can only access their designated functionalities.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Your Name**
 - GitHub: [@Vedant Kengale](https://github.com/Vedant-Kengale)
 - LinkedIn: [Vedant Kengale](https://linkedin.com/in/Vedant-Kengale)
 - Email: vedantkengale96@gmail.com
-
-Target Users
-
-- Pharmaceutical Administrators and Regulatory Bodies
-- Pharmaceutical Manufacturing Companies
-- Medical Wholesalers and Distributors
-- Healthcare Supply Chain Managers
