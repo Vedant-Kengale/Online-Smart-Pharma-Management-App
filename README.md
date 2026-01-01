@@ -188,7 +188,7 @@ The application employs a three-tier architecture where the presentation layer (
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vedant Kengale**
 - GitHub: [@Vedant Kengale](https://github.com/Vedant-Kengale)
 - LinkedIn: [Vedant Kengale](https://linkedin.com/in/Vedant-Kengale)
 - Email: vedantkengale96@gmail.com
