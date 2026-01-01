@@ -184,15 +184,6 @@ graph LR
 
 The application employs a three-tier architecture where the presentation layer (HTML/CSS/Bootstrap) handles user interface, the application layer (JSP/JavaScript) manages business logic and session handling, and the data layer (MySQL) ensures persistent storage. AJAX calls powered by jQuery enable asynchronous communication for seamless user experience without full page reloads. The system implements role-based access control ensuring each user type can only access their designated functionalities.
 
-## 💻 Benefits & Impact
-
-- Efficiency: Reduces manual paperwork and streamlines supply chain operations
-- Transparency: Provides real-time visibility into order status and inventory
-- Regulation: Ensures only verified businesses participate in transactions
-- Scalability: Web-based architecture allows easy expansion and remote access
-- Traceability: Complete audit trail of all transactions and status changes
-- Cost Reduction: Minimizes operational costs through automation and digital processes
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
