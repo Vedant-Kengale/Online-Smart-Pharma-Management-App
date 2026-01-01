@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 - [Overview](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-overview)
 - [Key Features & Modules](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-key-features--modules)
-- [Technology Stack](#technology-stack)
+- [Technology Stack](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#%EF%B8%8F-technology-stack)
 - [System Architecture](#system-architecture)
 - [Modules](#modules)
 - [Installation](#installation)
