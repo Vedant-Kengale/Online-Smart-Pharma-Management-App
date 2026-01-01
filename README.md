@@ -202,8 +202,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Vedant-Kengale)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/Vedant-Kengale)
+- GitHub: [@Vedant Kengale](https://github.com/Vedant-Kengale)
+- LinkedIn: [Vedant Kengale](https://linkedin.com/in/Vedant-Kengale)
 - Email: vedantkengale96@gmail.com
 
 Target Users
