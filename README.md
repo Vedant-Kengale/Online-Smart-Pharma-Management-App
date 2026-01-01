@@ -16,7 +16,7 @@
 - [Screenshots](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-screenshots)
 - [Benefits & Impact](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-benefits--impact)
 - [Target Users](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
-- [Future Enhancement](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
+- [Future Enhancement](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-future-enhancements)
 - [Technical Implementation](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-target-users)
 
 ## 🎯 Overview
