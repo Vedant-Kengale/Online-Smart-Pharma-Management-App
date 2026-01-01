@@ -12,7 +12,7 @@
 - [Technology Stack](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#%EF%B8%8F-technology-stack)
 - [System Architecture](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#%EF%B8%8F-system-architecture)
 - [Modules](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-modules)
-- [Usage](#usage)
+- [Usage](https://github.com/Vedant-Kengale/Online-Smart-Pharma-Management-App/blob/main/README.md#-usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
