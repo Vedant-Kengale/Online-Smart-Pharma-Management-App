@@ -88,8 +88,7 @@
 				<div class="modal-dialog">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h1 class="modal-title fs-5" id="AddProductModal">Add
-								Product</h1>
+							<h1 class="modal-title fs-5" id="AddProductModal">Add Product</h1>
 							<button type="button" class="btn-close" data-bs-dismiss="modal"
 								aria-label="Close"></button>
 						</div>
@@ -122,8 +121,7 @@
 										id="inputGroupFile02">
 								</div>
 
-								<button type="submit" class="btn btn-primary">Save
-									Product</button>
+								<button type="submit" class="btn btn-primary">Save Product</button>
 
 							</form>
 
@@ -301,12 +299,7 @@
 					</table>
 
 				</div>
-				<!-- div class="row mt-5">
-					<div class="col-12 text-center">
-						<a href="shop.html" class="btn btn-primary px-4 py-3">View All
-							Products</a>
-					</div>
-				</div-->
+				
 			</div>
 		</div>
 
