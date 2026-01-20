@@ -20,6 +20,8 @@
   <link rel="stylesheet" href="css/aos.css">
 
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
 
 </head>
 
@@ -416,7 +418,7 @@
 								Everyday</h2>
 							<h1>Welcome To Pharma</h1>
 							<p>
-								<a href="#" class="btn btn-primary px-5 py-3">Shop Now</a>
+								<a href="shop.html" class="btn btn-primary px-5 py-3">Shop Now</a>
 							</p>
 						</div>
 					</div>
@@ -431,11 +433,11 @@
 						<div class="banner-wrap bg-primary h-100">
 							<a href="#" class="h-100">
 								<h5>
-									Free <br> Shipping
+									Fast & Reliable <br> Delivery
 								</h5>
 								<p>
-									Amet sit amet dolor <strong>Lorem, ipsum dolor sit
-										amet consectetur adipisicing.</strong>
+									Get medicines delivered quickly with secure packaging and real-time order tracking. 
+									<strong>Trusted pharmacies, on-time delivery, zero compromise on safety.</strong>
 								</p>
 							</a>
 						</div>
@@ -444,11 +446,11 @@
 						<div class="banner-wrap h-100">
 							<a href="#" class="h-100">
 								<h5>
-									Season <br> Sale 50% Off
+									Seasonal Health <br> Offers
 								</h5>
 								<p>
-									Amet sit amet dolor <strong>Lorem, ipsum dolor sit
-										amet consectetur adipisicing.</strong>
+									Unlock seasonal discounts on essential medicines and wellness products. 
+									<strong>Save upto 50% with limited time health offers.</strong>
 								</p>
 							</a>
 						</div>
@@ -457,11 +459,11 @@
 						<div class="banner-wrap bg-warning h-100">
 							<a href="#" class="h-100">
 								<h5>
-									Buy <br> A Gift Card
+									Digital Prescription <br> &amp; Reorders
 								</h5>
 								<p>
-									Amet sit amet dolor <strong>Lorem, ipsum dolor sit
-										amet consectetur adipisicing.</strong>
+									Upload prescriptions securely and reorder medicines anytime with ease.
+									<strong>Smart Reminders ensure you never miss your medication.</strong>
 								</p>
 							</a>
 						</div>
@@ -618,11 +620,9 @@
 								<blockquote>
 									<img src="images/person_1.jpg" alt="Image"
 										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
+									<p>&ldquo;Uploading prescriptions and reordering medicines takes seconds. 
+									   The reminders are a game changer for long-term medication. 
+									   Simple, clean, and efficient.&rdquo;</p>
 								</blockquote>
 
 								<p>&mdash; Kelly Holmes</p>
@@ -632,11 +632,9 @@
 								<blockquote>
 									<img src="images/person_2.jpg" alt="Image"
 										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
+									<p>&ldquo;Managing regular medicines is finally stress-free. 
+									   Ordering, prescription uploads, and timely delivery all work seamlessly. 
+									   The system feels reliable and well thought out.&rdquo;</p>
 								</blockquote>
 
 								<p>&mdash; Rebecca Morando</p>
@@ -646,11 +644,8 @@
 								<blockquote>
 									<img src="images/person_3.jpg" alt="Image"
 										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
+									<p>&ldquo;The discounts and seasonal offers genuinely help manage monthly medical expenses. 
+									   Everything is transparent, from pricing to order history.&rdquo;</p>
 								</blockquote>
 
 								<p>&mdash; Lucas Gallone</p>
@@ -660,11 +655,9 @@
 								<blockquote>
 									<img src="images/person_4.jpg" alt="Image"
 										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
+									<p>&ldquo;Ordering medicines online finally feels reliable. 
+									   The delivery is fast, the packaging is secure, and tracking updates are accurate. 
+									   This platform actually understands patient needs.&rdquo;</p>
 								</blockquote>
 
 								<p>&mdash; Andrew Neel</p>
@@ -685,8 +678,8 @@
 							style="background-image: url('images/bg_1.jpg');">
 							<div class="banner-1-inner align-self-center">
 								<h2>Pharma Products</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Genuine medicines and healthcare essentials from trusted pharmacies.
+                                   Quality-checked, safe, and reliable.</p>
 							</div>
 						</a>
 					</div>
@@ -695,8 +688,8 @@
 							style="background-image: url('images/bg_2.jpg');">
 							<div class="banner-1-inner ml-auto  align-self-center">
 								<h2>Rated by Experts</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Medicines reviewed by certified healthcare professionals.
+                                   Trusted recommendations you can rely on.</p>
 							</div>
 						</a>
 					</div>
@@ -712,19 +705,19 @@
 
 						<div class="block-7">
 							<h3 class="footer-heading mb-4">About Us</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-								Eius quae reiciendis distinctio voluptates sed dolorum excepturi
-								iure eaque, aut unde.</p>
+							<p>A digital pharma management platform focused on efficient medicine ordering, inventory control, and customer handling. 
+							   Online Pharma Management System is a JSP-based web application built to deliver secure operations, improved accuracy, 
+							   and a smooth user experience for pharmacies and users.</p>
 						</div>
 
 					</div>
 					<div class="col-lg-3 mx-auto mb-5 mb-lg-0">
 						<h3 class="footer-heading mb-4">Quick Links</h3>
 						<ul class="list-unstyled">
-							<li><a href="#">Supplements</a></li>
-							<li><a href="#">Vitamins</a></li>
-							<li><a href="#">Diet &amp; Nutrition</a></li>
-							<li><a href="#">Tea &amp; Coffee</a></li>
+							<li><a href="mailto:vedantkengale96@gmail.com" aria-label="Gmail">Gmail</a></li>
+							<li><a href="https://linkedin.com/in/vedant-kengale" aria-label="LinkedIn">LinkedIn</a></li>
+							<li><a href="https://github.com/Vedant-Kengale" aria-label="Github">Github</a></li>
+							<li><a href="https://www.instagram.com/vedant_kengale_5126/" aria-label="Instagram">Instagram</a></li>
 						</ul>
 					</div>
 
@@ -745,15 +738,13 @@
 				<div class="row pt-5 mt-5 text-center">
 					<div class="col-md-12">
 						<p>
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							Copyright &copy;
+                            
 							<script>
 								document.write(new Date().getFullYear());
 							</script>
-							All rights reserved | This template is made with <i
-								class="icon-heart" aria-hidden="true"></i> by <a
-								href="https://colorlib.com" target="_blank" class="text-primary">Vedant Kengale</a>
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+							All rights reserved | Made <i aria-hidden="true"></i> by 
+							<a href="https://my_portfolio.com" target="_blank" class="text-primary">Vedant Kengale</a>
+							
 						</p>
 					</div>
 
