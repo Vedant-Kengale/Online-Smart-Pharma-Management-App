@@ -291,80 +291,6 @@
 			</div>
 		</div>
 
-
-		<div class="site-section">
-			<div class="container">
-				<div class="row">
-					<div class="title-section text-center col-12">
-						<h2 class="text-uppercase">Testimonials</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 block-3 products-wrap">
-						<div class="nonloop-block-3 no-direction owl-carousel">
-
-							<div class="testimony">
-								<blockquote>
-									<img src="images/person_1.jpg" alt="Image"
-										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
-								</blockquote>
-
-								<p>&mdash; Kelly Holmes</p>
-							</div>
-
-							<div class="testimony">
-								<blockquote>
-									<img src="images/person_2.jpg" alt="Image"
-										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
-								</blockquote>
-
-								<p>&mdash; Rebecca Morando</p>
-							</div>
-
-							<div class="testimony">
-								<blockquote>
-									<img src="images/person_3.jpg" alt="Image"
-										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
-								</blockquote>
-
-								<p>&mdash; Lucas Gallone</p>
-							</div>
-
-							<div class="testimony">
-								<blockquote>
-									<img src="images/person_4.jpg" alt="Image"
-										class="img-fluid w-25 mb-4 rounded-circle">
-									<p>&ldquo;Lorem ipsum dolor, sit amet consectetur
-										adipisicing elit. Nemo omnis voluptatem consectetur quam
-										tempore obcaecati maiores voluptate aspernatur iusto eveniet,
-										placeat ab quod tenetur ducimus. Minus ratione sit quaerat
-										unde.&rdquo;</p>
-								</blockquote>
-
-								<p>&mdash; Andrew Neel</p>
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
 		<div class="site-section bg-secondary bg-image"
 			style="background-image: url('images/bg_2.jpg');">
 			<div class="container">
@@ -374,8 +300,8 @@
 							style="background-image: url('images/bg_1.jpg');">
 							<div class="banner-1-inner align-self-center">
 								<h2>Pharma Products</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Genuine medicines and healthcare essentials from trusted pharmacies.
+                                   Quality-checked, safe, and reliable.</p>
 							</div>
 						</a>
 					</div>
@@ -384,8 +310,8 @@
 							style="background-image: url('images/bg_2.jpg');">
 							<div class="banner-1-inner ml-auto  align-self-center">
 								<h2>Rated by Experts</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Medicines reviewed by certified healthcare professionals.
+                                   Trusted recommendations you can rely on.</p>
 							</div>
 						</a>
 					</div>
@@ -401,19 +327,19 @@
 
 					<div class="block-7">
 						<h3 class="footer-heading mb-4">About Us</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-							Eius quae reiciendis distinctio voluptates sed dolorum excepturi
-							iure eaque, aut unde.</p>
+						<p>A digital pharma management platform focused on efficient medicine ordering, inventory control, and customer handling. 
+						   Online Pharma Management System is a JSP-based web application built to deliver secure operations, improved accuracy, 
+						   and a smooth user experience for pharmacies and users.</p>
 					</div>
 
 				</div>
 				<div class="col-lg-3 mx-auto mb-5 mb-lg-0">
 					<h3 class="footer-heading mb-4">Quick Links</h3>
 					<ul class="list-unstyled">
-						<li><a href="#">Supplements</a></li>
-						<li><a href="#">Vitamins</a></li>
-						<li><a href="#">Diet &amp; Nutrition</a></li>
-						<li><a href="#">Tea &amp; Coffee</a></li>
+						<li><a href="mailto:vedantkengale96@gmail.com" aria-label="Gmail">Gmail</a></li>
+						<li><a href="https://linkedin.com/in/vedant-kengale" aria-label="LinkedIn">LinkedIn</a></li>
+						<li><a href="https://github.com/Vedant-Kengale" aria-label="Github">Github</a></li>
+						<li><a href="https://www.instagram.com/vedant_kengale_5126/" aria-label="Instagram">Instagram</a></li>
 					</ul>
 				</div>
 
@@ -423,8 +349,7 @@
 						<ul class="list-unstyled">
 							<li class="address">203 Fake St. Mountain View, San
 								Francisco, California, USA</li>
-							<li class="phone"><a href="tel://919284875613">+91 92848
-									75613</a></li>
+							<li class="phone"><a href="tel://919284875613">+91 92848 75613</a></li>
 							<li class="email">vedantkengale96@gmail.com</li>
 						</ul>
 					</div>
@@ -435,16 +360,13 @@
 			<div class="row pt-5 mt-5 text-center">
 				<div class="col-md-12">
 					<p>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						Copyright &copy;
 						<script>
 							document.write(new Date().getFullYear());
 						</script>
-						All rights reserved | This template is made with <i
-							class="icon-heart" aria-hidden="true"></i> by <a
-							href="https://colorlib.com" target="_blank" class="text-primary">Vedant
-							Kengale</a>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						All rights reserved | Made 
+						<i aria-hidden="true"></i> by 
+						<a href="https://colorlib.com" target="_blank" class="text-primary">Vedant Kengale</a>
+						
 					</p>
 				</div>
 
