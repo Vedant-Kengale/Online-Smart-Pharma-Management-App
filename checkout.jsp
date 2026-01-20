@@ -7,7 +7,7 @@
 <html lang="en">
 
 <head>
-<title>Pharma &mdash; Colorlib Template</title>
+<title>Checkout Page</title>
 <meta charset="utf-8">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -52,7 +52,7 @@
 				<div class="d-flex align-items-center justify-content-between">
 					<div class="logo">
 						<div class="site-logo">
-							<a href="index.html" class="js-logo-clone">Pharma</a>
+							<a href="home.jsp" class="js-logo-clone">Pharma</a>
 						</div>
 					</div>
 					<div class="main-nav d-none d-lg-block">
@@ -81,7 +81,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 mb-0">
-						<a href="index.html">Home</a> <span class="mx-2 mb-0">/</span> <strong
+						<a href="home.jsp">Home</a> <span class="mx-2 mb-0">/</span> <strong
 							class="text-black">Checkout</strong>
 					</div>
 				</div>
@@ -300,8 +300,8 @@
 							style="background-image: url('images/bg_1.jpg');">
 							<div class="banner-1-inner align-self-center">
 								<h2>Pharma Products</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Genuine medicines and healthcare essentials from trusted pharmacies.
+                                   Quality-checked, safe, and reliable.</p>
 							</div>
 						</a>
 					</div>
@@ -310,8 +310,8 @@
 							style="background-image: url('images/bg_2.jpg');">
 							<div class="banner-1-inner ml-auto  align-self-center">
 								<h2>Rated by Experts</h2>
-								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-									Molestiae ex ad minus rem odio voluptatem.</p>
+								<p>Medicines reviewed by certified healthcare professionals.
+                                   Trusted recommendations you can rely on.</p>
 							</div>
 						</a>
 					</div>
@@ -327,19 +327,19 @@
 
 					<div class="block-7">
 						<h3 class="footer-heading mb-4">About Us</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-							Eius quae reiciendis distinctio voluptates sed dolorum excepturi
-							iure eaque, aut unde.</p>
+						<p>A digital pharma management platform focused on efficient medicine ordering, inventory control, and customer handling. 
+						   Online Pharma Management System is a JSP-based web application built to deliver secure operations, improved accuracy, 
+						   and a smooth user experience for pharmacies and users.</p>
 					</div>
 
 				</div>
 				<div class="col-lg-3 mx-auto mb-5 mb-lg-0">
 					<h3 class="footer-heading mb-4">Quick Links</h3>
 					<ul class="list-unstyled">
-						<li><a href="#">Supplements</a></li>
-						<li><a href="#">Vitamins</a></li>
-						<li><a href="#">Diet &amp; Nutrition</a></li>
-						<li><a href="#">Tea &amp; Coffee</a></li>
+						<li><a href="mailto:vedantkengale96@gmail.com" aria-label="Gmail">Gmail</a></li>
+						<li><a href="https://linkedin.com/in/vedant-kengale" aria-label="LinkedIn">LinkedIn</a></li>
+						<li><a href="https://github.com/Vedant-Kengale" aria-label="Github">Github</a></li>
+						<li><a href="https://www.instagram.com/vedant_kengale_5126/" aria-label="Instagram">Instagram</a></li>
 					</ul>
 				</div>
 
@@ -349,9 +349,8 @@
 						<ul class="list-unstyled">
 							<li class="address">203 Fake St. Mountain View, San
 								Francisco, California, USA</li>
-							<li class="phone"><a href="tel://23923929210">+2 392
-									3929 210</a></li>
-							<li class="email">emailaddress@domain.com</li>
+							<li class="phone"><a href="tel://919284875613">+91 92848 75613</a></li>
+							<li class="email">vedantkengale96@gmail.com</li>
 						</ul>
 					</div>
 
@@ -361,13 +360,10 @@
 			<div class="row pt-5 mt-5 text-center">
 				<div class="col-md-12">
 					<p>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						Copyright &copy;
 						<script>document.write(new Date().getFullYear());</script>
-						All rights reserved | This template is made with <i
-							class="icon-heart" aria-hidden="true"></i> by <a
-							href="https://colorlib.com" target="_blank" class="text-primary">Colorlib</a>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						All rights reserved | Made 
+						<i aria-hidden="true"></i> by 
+						<a href="https://my_portfolio.com" target="_blank" class="text-primary">Vedant Kengale</a>
 					</p>
 				</div>
 
